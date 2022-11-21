@@ -101,10 +101,10 @@ Pada perspektif ini akan diisi oleh IT Operations Manager and IT Supports Manage
 
 ## Kesimpulan:
 
-    - The AWS Cloud Adoption Framework (AWS CAF) membantu organisasi dalam rencana pengembangan yang efisien dan efektif dalam menggunkan cloud computing.
-    - The AWS CAF memecah proses yang kompleks dalam perencanaan berpindah ke cloud menjadi beberaoa bagian yang dapat diatur yang disebut Perspective
-    - Perspektif terdiri dari kumpulan kemampuan bisnis atau teknologi yang menjadi tanggung jawab pemangku kepentingan utama (key stakeholders).
-    - The AWS CAF menyediakan struktur bagi tim bisnis dan IT untuk bekerja sama agar berhasil mengadopsi cloud.
+    1. The AWS Cloud Adoption Framework (AWS CAF) membantu organisasi dalam rencana pengembangan yang efisien dan efektif dalam menggunkan cloud computing.
+    2. The AWS CAF memecah proses yang kompleks dalam perencanaan berpindah ke cloud menjadi beberaoa bagian yang dapat diatur yang disebut Perspective
+    3. Perspektif terdiri dari kumpulan kemampuan bisnis atau teknologi yang menjadi tanggung jawab pemangku kepentingan utama (key stakeholders).
+    4. The AWS CAF menyediakan struktur bagi tim bisnis dan IT untuk bekerja sama agar berhasil mengadopsi cloud.
 
 Untuk mengetahui lebih lanjut tentang AWS Cloud Adoption Framework ( AWS CAF ) bisa mengunjungi : https://aws.amazon.com/id/professional-services/CAF/
 
