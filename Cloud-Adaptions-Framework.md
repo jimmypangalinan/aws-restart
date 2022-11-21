@@ -99,6 +99,6 @@ Dalam perspektif ini akan meliputi :
 
 Pada perspektif ini akan diisi oleh IT Operations Manager and IT Supports Managers.
 
-Kesimpulan :
+## Kesimpulan:
 
-#### The AWS Cloud Adoption Framework (AWS CAF) mem
+    - The AWS Cloud Adoption Framework (AWS CAF) mem
