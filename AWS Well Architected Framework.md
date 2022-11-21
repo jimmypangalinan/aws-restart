@@ -120,3 +120,5 @@ kemampuan :
 
 - Use computing resources efficiently to meet system requirements > Menggunakan sumberdaya yang sesuai
 - Maintain taht efficiency ad demand change and technologies evolve > Mampu melakukan maintenance yang efisien sesuai perubahan kebutuhan dan perkembangan teknologi.
+
+
