@@ -109,3 +109,4 @@ Pada perspektif ini akan diisi oleh IT Operations Manager and IT Supports Manage
 Untuk mengetahui lebih lanjut tentang AWS Cloud Adoption Framework ( AWS CAF ) bisa mengunjungi : https://aws.amazon.com/id/professional-services/CAF/
 
 Sumber : - Orbit Academy Class
+Writter : Jimmy Pangalinan
